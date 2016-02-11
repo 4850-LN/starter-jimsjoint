@@ -1,6 +1,7 @@
 Newest First
 yyyy-mm-dd hh:mm - message
 
+2016-02-11 15:06 - fix 3 neworders() in Orders controller
 2016-02-11 14:49 - fix 2 made changes to autoload and fixed the completed orders
 2016-02-11 14:25 - fix 1 added database to autoload
 2016-02-11 14:22 - fix 1 - configuration
