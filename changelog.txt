@@ -1,4 +1,6 @@
 Newest First
 yyyy-mm-dd hh:mm - message
 
+2016-02-11 14:25 - fix 1 added database to autoload
+2016-02-11 14:22 - fix 1 - configuration
 2016-02-11 13:55 - initial setup
