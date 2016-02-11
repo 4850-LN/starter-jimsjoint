@@ -1,4 +1,35 @@
 ###############
+4850 Group 9
+###############
+
+*******
+Members
+*******
+
+Liz Kundilivskaya
+Nancy Ra
+
+************
+Distribution
+************
+Liz -
+Nancy -
+
+
+***********
+Conventions
+***********
+
+Allman style
+tab indentation
+ucfirst (Upper case first) for classes and files
+lowercase for name elsewhere
+words separated by underscore
+underscore first for internal items
+
+
+
+###############
 Fall2015 lab 04
 ###############
 
