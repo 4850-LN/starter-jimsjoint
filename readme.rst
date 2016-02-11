@@ -20,12 +20,12 @@ Nancy -
 Conventions
 ***********
 
-Allman style
-tab indentation
-ucfirst (Upper case first) for classes and files
-lowercase for name elsewhere
-words separated by underscore
-underscore first for internal items
+/Allman style  
+/tab indentation  
+/ucfirst (Upper case first) for classes and files  
+/lowercase for name elsewhere  
+/words separated by underscore  
+/underscore first for internal items  
 
 
 
