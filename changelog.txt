@@ -1,0 +1,4 @@
+Newest First
+yyyy-mm-dd hh:mm - message
+
+2016-02-11 13:55 - initial setup
