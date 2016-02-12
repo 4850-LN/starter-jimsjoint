@@ -1,6 +1,7 @@
 Newest First
 yyyy-mm-dd hh:mm - message
 
+2016-02-11 16:22 - fix 7 procced and commit and cancel functions work 
 2016-02-11 16:22 - fix 6 validate() and checkout()
 2016-02-11 15:21 - fix 5 add() in Order module and add_item() in Order model
 2016-02-11 15:21 - fix 4 total() in Orders model, display_menu() & make_column() in the Orders controller
